@@ -1,6 +1,6 @@
 # a199-flutter-expert-project
 
-[![Flutter CI](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>/actions/workflows/flutter_ci.yml)
+[![Flutter CI](https://github.com/sansnath/ditonton-app/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/sansnath/ditonton-app/actions/workflows/flutter_ci.yml)
 
 Repository ini merupakan starter project submission kelas Flutter Expert Dicoding Indonesia.
 
