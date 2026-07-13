@@ -1,0 +1,31 @@
+{
+  "backdrop_path": "backdropPath",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "id": 1,
+  "name": "Name",
+  "original_name": "Original Name",
+  "overview": "Overview",
+  "poster_path": "posterPath",
+  "first_air_date": "firstAirDate",
+  "vote_average": 1.0,
+  "vote_count": 100,
+  "episode_run_time": [60],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "seasons": [
+    {
+      "air_date": "firstAirDate",
+      "episode_count": 10,
+      "id": 1,
+      "name": "Season 1",
+      "overview": "overview",
+      "poster_path": "posterPath",
+      "season_number": 1
+    }
+  ]
+}
